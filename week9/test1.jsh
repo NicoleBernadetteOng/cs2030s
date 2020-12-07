@@ -1,0 +1,9 @@
+Logger.make(5)
+Logger.make(5).printlog()
+Logger.make("hello")
+Logger.make("hello").printlog()
+Logger.make(5).equals(Logger.make(5))
+Logger.make(5).equals(5)
+Logger.make(5).equals(Logger.make("five"))
+Logger.make(5).equals((Object)(Logger.make(5)))
+/exit
