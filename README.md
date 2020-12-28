@@ -1,4 +1,4 @@
-# CS2030S at NUS
+# CS2030S Notes
 Programming Methodology II in NUS during the Academic year 2020/21 Semester 1
 
 # Introduction 
